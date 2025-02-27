@@ -6,7 +6,7 @@
 
 
 <div>
-  <a href= "https://github.com/nathanolivveiraaraujo">
+  <a href= "https://github.com/nathanolivveiaraujo">
   <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=nathanaraujo&show_icons=true&theme=gruvbox"/>
     
 </div>
@@ -21,7 +21,7 @@
  
 <div> 
   <a href="https://instagram.com/nathan_estebans" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:">natahanolivveiraaraujo<img src="https://img.shields.io/badge/-Gmail-oliveiraaraujonathan%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:">natahanestebans<img src="https://img.shields.io/badge/-Gmail-oliveiraaraujonathan%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
 </div>
 
